@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lessons/だい3か.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -233,7 +233,9 @@
     "Lessons/だい3か.md",
     "Concepts/しごと (job).md",
     "Concepts/ご (language).md",
+    "Concepts/あいづち (backchannels).md",
     "References/先生「せんせい」and 教師 「きょうし」.md",
+    "References/相槌.md",
     "References",
     "Concepts",
     "Lessons",
