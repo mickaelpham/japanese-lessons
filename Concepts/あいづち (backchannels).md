@@ -1,5 +1,5 @@
 
-| にほんご   | english         |
+| にほんご   | English         |
 | ------ | --------------- |
 | そうですか  | Is that so?     |
 | すごいですね | That’s amazing! |

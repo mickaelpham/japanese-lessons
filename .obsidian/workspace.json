@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "37d86a393ee41128",
+        "id": "8b6f2ebbd796c925",
         "type": "tabs",
         "children": [
           {
-            "id": "71bc0529fcba69c3",
+            "id": "aacce51b2ef83a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/だい3か.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "だい3か"
-            }
-          },
-          {
-            "id": "ebcf69e6bc17896f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/だい3か.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "だい3か"
-            }
-          },
-          {
-            "id": "6ce12b7a229f2cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/しごと (job).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "しごと (job)"
-            }
-          },
-          {
-            "id": "b97dc211188f83e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/だい3か.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "だい3か"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/だい3か.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for だい3か"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lessons/だい3か.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from だい3か"
+              "title": "Outgoing links"
             }
           },
           {
@@ -199,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/だい3か.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of だい3か"
+              "title": "Outline"
             }
           }
         ]
@@ -226,16 +176,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "b97dc211188f83e3",
+  "active": "aacce51b2ef83a36",
   "lastOpenFiles": [
-    "Lessons/だい2か.md",
-    "Lessons/だい１か.md",
     "Lessons/だい3か.md",
     "Concepts/しごと (job).md",
-    "Concepts/ご (language).md",
+    "Lessons/だい4が.md",
+    "Concepts/かぞく (family).md",
+    "Concepts/ご (languages).md",
     "Concepts/あいづち (backchannels).md",
-    "References/先生「せんせい」and 教師 「きょうし」.md",
+    "Concepts/Counting.md",
+    "Lessons/だい2か.md",
+    "Lessons/だい１か.md",
+    "References/How to type in Japanese.md",
     "References/相槌.md",
+    "References/先生「せんせい」and 教師 「きょうし」.md",
     "References",
     "Concepts",
     "Lessons",

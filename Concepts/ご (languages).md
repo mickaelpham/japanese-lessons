@@ -1,5 +1,5 @@
 
-| にほんご   | english          |
+| にほんご   | English          |
 | ------ | ---------------- |
 | アラビアご  | Arabic language  |
 | かんこくご  | Korean language  |
