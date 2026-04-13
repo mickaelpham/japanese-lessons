@@ -11,10 +11,14 @@
             "id": "aacce51b2ef83a36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/だい4か.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "だい4か"
             }
           }
         ]
@@ -179,8 +183,8 @@
   "active": "aacce51b2ef83a36",
   "lastOpenFiles": [
     "Lessons/だい3か.md",
+    "Lessons/だい4か.md",
     "Concepts/しごと (job).md",
-    "Lessons/だい4が.md",
     "Concepts/かぞく (family).md",
     "Concepts/ご (languages).md",
     "Concepts/あいづち (backchannels).md",
